@@ -1,0 +1,9 @@
+/* External CSS örneği */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7f7;
+}
+
+ul {
+    list-style-position: inside;
+}
